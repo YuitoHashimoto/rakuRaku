@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
+  <g id="グループ_17" data-name="グループ 17" transform="translate(-43 -746)">
+    <path id="パス_10" data-name="パス 10" d="M0,0H46V46H0Z" transform="translate(43 746)" fill="none"/>
+    <path id="パス_4" data-name="パス 4" d="M61.767,8.005h0L54.085.8a2.973,2.973,0,0,0-4.067,0l-7.681,7.2a2.973,2.973,0,0,0-.94,2.169V22.447a2.974,2.974,0,0,0,2.974,2.974H59.733a2.974,2.974,0,0,0,2.974-2.974V10.175A2.975,2.975,0,0,0,61.767,8.005ZM60.339,22.447a.607.607,0,0,1-.606.606h-5.05V17.791H49.421v5.261h-5.05a.605.605,0,0,1-.606-.606V10.175a.6.6,0,0,1,.191-.442l7.682-7.2a.605.605,0,0,1,.828,0l7.682,7.2h0a.606.606,0,0,1,.192.442V22.447Z" transform="translate(13.603 747.8)" fill="#fff"/>
+    <text id="ホーム" transform="translate(66 786)" fill="#fff" font-size="8" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="-11.8" y="0">ホーム</tspan></text>
+  </g>
+</svg>

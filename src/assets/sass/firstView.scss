@@ -1,0 +1,44 @@
+@import "_ress";
+@import "_common";
+
+
+.changeColor {
+    color: $mainColor;
+}
+
+.main {
+    text-align: center;
+    background: #FAFAFA;
+    height: 100vh;
+    padding-top: 88px;
+    h1 {
+        margin-bottom: 72px;
+        font-size: 3.2rem;
+    }
+    &__logo {
+        border: 1px solid #303030;
+        width: 284px;
+        height: 284px;
+        margin: 0 auto;
+    }
+    &__link {
+        font-size: 1.6rem;
+        margin-top: 137px;
+        button {
+            font-weight: 100;
+            padding: 16px 65px;
+            border-radius: 10px;
+            color: #fff;
+            background: $mainColor;
+        }
+        p {
+            color: #303030;
+            margin-top: 22px;
+        }
+    }
+    &__small {
+        font-size: 0.6rem;
+        margin-top: 30px;
+    }
+
+}
